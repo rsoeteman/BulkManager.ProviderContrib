@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BulkManager.ProviderContrib")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Additional bulkactions for Bulkmanager")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BulkManager.ProviderContrib")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Soetemans Software")]
+[assembly: AssemblyProduct("BulkManager")]
+[assembly: AssemblyCopyright("Copyright © Soetemans Software 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

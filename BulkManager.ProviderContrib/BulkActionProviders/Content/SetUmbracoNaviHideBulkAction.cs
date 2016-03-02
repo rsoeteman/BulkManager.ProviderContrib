@@ -18,7 +18,7 @@ namespace BulkManager.ProviderContrib.BulkActionProviders.Content
         private readonly RadioButtonList _radioButtonList = new RadioButtonList();
         private readonly CheckBox _autoPublishCheckBox = new CheckBox();
 
-        protected override void OnInit(EventArgs e)
+        protected override void OnInit(EventArgs e) 
         {
             base.OnInit(e);
             _radioButtonList.Items.Add(new ListItem("Set umbracoNavihide to false", "false"));
